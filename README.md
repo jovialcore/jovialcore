@@ -9,7 +9,7 @@
 
 #### What am I doing now ? 
 - 🔭 I’m currently freelancing but 🔭 Job Searching 🔭. 
-- 💬 I also write some topics around my stack on my blog:[jovialcore.tech](https://jovialcore.tech)
+- 💬 I also write some topics around my stack on my blog -[jovialcore.tech](https://jovialcore.tech)
 
 ##### Other...
 - 👯 Opensourcing ...
