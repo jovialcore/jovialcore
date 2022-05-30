@@ -9,8 +9,8 @@
 -⚙️ Tools I use: `php`, `laravel`, `cakephp`, `javascript`, `Vuejs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress-api`
 
 #### What am I doing now ? 
-- 🔭 Currently an Open Source Developer @ [Cuneiform Digital Library Initiative (CDLI)](https://gitlab.com/cdli/framework) for 🔭 **Google summer Of Code 2022 May-present* 🔭. 
-- 💬 I also write some topics around my stack on my blog -[jovialcore.tech](https://jovialcore.tech)
+- 🔭 Currently an Open Source Developer @ [Cuneiform Digital Library Initiative (CDLI)](https://gitlab.com/cdli/framework) for 🔭 **Google summer Of Code 2022** 🔭. 
+- 💬 I also about write some code related topics around my stack on my blog -[jovialcore.tech](https://jovialcore.tech)
 
 
 ## Top Blog Posts📩
