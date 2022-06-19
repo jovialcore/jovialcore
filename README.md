@@ -1,5 +1,5 @@
 
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> There :blush:
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> There :blush:
 
 
 #### I'm a Backend Developer (with a fleshy Fullstack knowledge)
