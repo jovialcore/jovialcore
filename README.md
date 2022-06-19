@@ -10,17 +10,17 @@
 
 #### What am I doing now ? 
 - 🔭 Currently an Open Source Developer @ [Cuneiform Digital Library Initiative (CDLI)](https://gitlab.com/cdli/framework) for 🔭 **Google summer Of Code 2022** 🔭. 
-- 💬 I also write about some code related topics around my stack on my blog -[jovialcore.tech](https://jovialcore.tech)
+- 💬 I also write about some code related topics around my stack on my blog -[jovialcore](https://dev.to/jovialcore)
 
 
 ## Top Blog Posts📩
 <!-- BLOG-POST-LIST:START -->
-- [How To Check for a particular Route then apply condition in laravel (blade)](https://jovialcore.tech/how-to-check-for-a-particular-route-then-apply-condition-in-laravel-blade/)
+- [How To Check for a particular Route then apply condition in laravel (blade)](https://dev.to/jovialcore/how-to-configure-a-subdomain-in-xampp-for-linux-os-ubuntu-etc-for-your-laravelphp-application-g9)
 - [How to configure a subdomain in xampp for linux OS (ubuntu, etc ) for your laravel/php application](https://jovialcore.tech/how-to-configure-a-subdomain-in-xampp-for-linux-os-ubuntu-etc-for-your-laravel-php-application/)
-- [How to display laravel validation errors in vuejs](https://jovialcore.tech/how-to-display-laravel-validation-errors-in-vuejs/)
-- [How to make a Full Slider with javascript in 10 mins](https://jovialcore.tech/how-to-make-a-full-slider-with-javascript-in-10-mins/)
-- [Fastest Way to migrate wordpress.com site to self hosted wordpress.org](https://jovialcore.tech/fastest-way-to-migrate-wordpress-com-site-to-self-hosted-wordpress-org/)
-- [The best way to install composer on linux ubuntu if you use xammp](https://jovialcore.tech/the-best-way-to-install-composer-on-linux-ubuntu-if-you-use-xammp/)
+- [How to display laravel validation errors in vuejs](https://dev.to/jovialcore/how-to-display-laravel-validation-errors-in-vuejs-2g3c)
+- [How to make a Full Slider with javascript in 10 mins](https://dev.to/jovialcore/how-to-make-a-full-slider-with-javascript-in-10-mins-3bb3)
+- [Fastest Way to migrate wordpress.com site to self hosted wordpress.org](https://dev.to/jovialcore/fastest-way-to-migrate-your-site-from-wordpresscom-to-wordpressorg-3jjj)
+- [The best way to install composer on linux ubuntu if you use xammp](https://dev.to/jovialcore/my-recommended-way-to-install-composer-on-linux-ubuntu-if-you-use-xammp-4dj6)
 <!-- BLOG-POST-LIST:END -->
 
 ##### Other...
