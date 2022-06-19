@@ -15,8 +15,8 @@
 
 ## Top Blog Posts📩
 <!-- BLOG-POST-LIST:START -->
-- [How To Check for a particular Route then apply condition in laravel (blade)](https://dev.to/jovialcore/how-to-configure-a-subdomain-in-xampp-for-linux-os-ubuntu-etc-for-your-laravelphp-application-g9)
-- [How to configure a subdomain in xampp for linux OS (ubuntu, etc ) for your laravel/php application](https://jovialcore.tech/how-to-configure-a-subdomain-in-xampp-for-linux-os-ubuntu-etc-for-your-laravel-php-application/)
+- [How To Check for a particular Route then apply condition in laravel (blade)](https://dev.to/jovialcore/how-to-check-for-a-particular-route-then-apply-condition-in-laravel-5c72)
+- [How to configure a subdomain in xampp for linux OS (ubuntu, etc ) for your laravel/php application](https://dev.to/jovialcore/how-to-configure-a-subdomain-in-xampp-for-linux-os-ubuntu-etc-for-your-laravelphp-application-g9)
 - [How to display laravel validation errors in vuejs](https://dev.to/jovialcore/how-to-display-laravel-validation-errors-in-vuejs-2g3c)
 - [How to make a Full Slider with javascript in 10 mins](https://dev.to/jovialcore/how-to-make-a-full-slider-with-javascript-in-10-mins-3bb3)
 - [Fastest Way to migrate wordpress.com site to self hosted wordpress.org](https://dev.to/jovialcore/fastest-way-to-migrate-your-site-from-wordpresscom-to-wordpressorg-3jjj)
