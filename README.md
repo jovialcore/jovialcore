@@ -13,7 +13,7 @@
 - 💬 I also write about some code related topics around my stack on my blog -[jovialcore](https://dev.to/jovialcore)
 
 
-## Top Blog Posts📩
+## Top Blog Posts Written by me📩
 <!-- BLOG-POST-LIST:START -->
 - [How To Check for a particular Route then apply condition in laravel (blade)](https://dev.to/jovialcore/how-to-check-for-a-particular-route-then-apply-condition-in-laravel-5c72)
 - [How to configure a subdomain in xampp for linux OS (ubuntu, etc ) for your laravel/php application](https://dev.to/jovialcore/how-to-configure-a-subdomain-in-xampp-for-linux-os-ubuntu-etc-for-your-laravelphp-application-g9)
