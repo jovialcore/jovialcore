@@ -6,7 +6,7 @@
 
 #### My Stacks:
 
--⚙️ Tools I use: `php`, `laravel`, `cakephp`, `javascript`, `Vuejs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress-api`
+-⚙️ Tools I use: `php`, `laravel`, `cakephp`, `javascript`, `Vuejs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
 
 #### What am I doing now ? 
 - 🔭 Currently an Open Source Developer @ [Cuneiform Digital Library Initiative (CDLI)](https://gitlab.com/cdli/framework) for 🔭 **Google summer Of Code 2022** 🔭. 
