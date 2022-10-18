@@ -14,8 +14,9 @@
 - 💬 I also write about some code related topics around my stack on my blog -[jovialcore](https://dev.to/jovialcore)
 
 
-## Top Blog Posts Written by me📩
+## Top Blog Posts Written by me📩 
 <!-- BLOG-POST-LIST:START -->
+- [How I was able to install php-cs-fixer. Vscode + Linux machine](https://dev.to/jovialcore/how-i-was-able-to-install-php-cs-fixer-vscode-linux-machine-2f8b)
 - [How To Check for a particular Route then apply condition in laravel (blade)](https://dev.to/jovialcore/how-to-check-for-a-particular-route-then-apply-condition-in-laravel-5c72)
 - [How to display laravel validation errors in vuejs](https://dev.to/jovialcore/how-to-display-laravel-validation-errors-in-vuejs-2g3c)
 - [Optimise for-loop with this tip](https://dev.to/jovialcore/php-optimise-forloop-with-this-tip-n70)
