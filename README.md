@@ -2,7 +2,7 @@
 # Hi! There :blush:
 
 
-#### I'm a Backend Developer (with a fleshy Fullstack knowledge).Linkedin: [https://www.linkedin.com/in/chidieberechukwudi](https://www.linkedin.com/in/chidieberechukwudi/) 
+#### I'm a Backend Developer (with a fleshy Fullstack knowledge).
 
 #### My Stacks:
 
@@ -31,7 +31,7 @@
 - 🤔 I’m looking to help anyone grow as much as I can
 
 ##### Reach Out 
-- 📫 Reach me: [twitter.com/jovial_core](https://twitter.com/jovialcore)
+- 📫 Reach me:[Linkedin](https://www.linkedin.com/in/chidieberechukwudi/),  [twitter.com/jovial_core](https://twitter.com/jovialcore)
 
 
 - ⚡ Fun fact: I like playing the piano
