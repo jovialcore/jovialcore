@@ -2,7 +2,7 @@
 # Hi! There :blush:
 
 
-#### I'm a Backend Developer (with a fleshy Fullstack knowledge).
+#### I'm a Backend Developer (with a fleshy Frontend knowledge).
 
 #### My Stacks:
 
