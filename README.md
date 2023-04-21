@@ -18,10 +18,10 @@
 ## Top Blog Posts Written by me📩 
 <!-- BLOG-POST-LIST:START -->
 - [Cakephp plugin Development: using custom component in another component.](https://dev.to/jovialcore/cakephp-plugin-development-using-custom-component-in-another-component-e6a)
-- [How I was able to install php-cs-fixer. Vscode + Linux machine](https://dev.to/jovialcore/how-i-was-able-to-install-php-cs-fixer-vscode-linux-machine-2f8b)
-- [How To Check for a particular Route then apply condition in laravel (blade)](https://dev.to/jovialcore/how-to-check-for-a-particular-route-then-apply-condition-in-laravel-5c72)
-- [How to display laravel validation errors in vuejs](https://dev.to/jovialcore/how-to-display-laravel-validation-errors-in-vuejs-2g3c)
+- - [How To Check for a particular Route then apply condition in laravel (blade)](https://dev.to/jovialcore/how-to-check-for-a-particular-route-then-apply-condition-in-laravel-5c72)
+- - [How to display laravel validation errors in vuejs](https://dev.to/jovialcore/how-to-display-laravel-validation-errors-in-vuejs-2g3c)
 - [Optimise for-loop with this tip](https://dev.to/jovialcore/php-optimise-forloop-with-this-tip-n70)
+- [How I was able to install php-cs-fixer. Vscode + Linux machine](https://dev.to/jovialcore/how-i-was-able-to-install-php-cs-fixer-vscode-linux-machine-2f8b)
 - [How to configure a subdomain in xampp for linux OS (ubuntu, etc ) for your laravel/php application](https://dev.to/jovialcore/how-to-configure-a-subdomain-in-xampp-for-linux-os-ubuntu-etc-for-your-laravelphp-application-g9)
 - [How to make a Full Slider with javascript in 10 mins](https://dev.to/jovialcore/how-to-make-a-full-slider-with-javascript-in-10-mins-3bb3)
 - [Fastest Way to migrate wordpress.com site to self hosted wordpress.org](https://dev.to/jovialcore/fastest-way-to-migrate-your-site-from-wordpresscom-to-wordpressorg-3jjj)
