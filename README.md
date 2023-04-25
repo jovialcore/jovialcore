@@ -8,7 +8,9 @@
 
 -⚙️ Tools I use: `php`, `laravel`, `cakephp`, `javascript`, `Vuejs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
 
-- Are you hiring ? My [Resume](https://docs.google.com/document/d/1QWT1_YUp2eVFIU_4FAw_xGVkLr7J_XaLYeoj95XPCAo/edit#) 
+### Are you hiring ? I'm available. 
+
+- My [Resume](https://docs.google.com/document/d/1QWT1_YUp2eVFIU_4FAw_xGVkLr7J_XaLYeoj95XPCAo/edit#) 
 
 #### What am I doing now ? 
 - 🔭 Volunteer Dev  @ [DCLM Hq](https://github.com/dclmict/dclm-testimony) 🔭.
