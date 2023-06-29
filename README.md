@@ -10,7 +10,7 @@
 
 ### Are you hiring ? I'm available. 
 
-💼 My [Resume](https://docs.google.com/document/d/1QWT1_YUp2eVFIU_4FAw_xGVkLr7J_XaLYeoj95XPCAo/edit#) 
+💼 My [Resume](https://docs.google.com/document/d/1XtZ6e__WE-uWC-VX1PBzHmA4CZ-xF-NCMPxZ03vrUU0/edit) 
 
 #### What am I doing now ? 
 - 🔭 Volunteer Dev  @ [DCLM Hq](https://github.com/dclmict/dclm-testimony) 🔭.
