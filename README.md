@@ -1,5 +1,5 @@
 
-# Hi! There :blush:
+# Hi! There 👋:
 
 
 #### I'm a Backend Developer (with a fleshy Frontend knowledge).
