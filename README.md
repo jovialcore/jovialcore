@@ -9,7 +9,7 @@
 -⚙️ Tools I use: `php`, `laravel`, `cakephp`, `javascript`, `Vuejs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
 
 #### What am I doing now ? 
-- Building OSS for [whatcompanystack](https://whatcompanystack.com) 🔭.
+- Building open source @ [whatcompanystack](https://whatcompanystack.com) 🔭.
 - Blogging @ [jovialcore.tech](https://jovialcore.tech) 🔭.
 - 🔭 Volunteer Dev  @ [DCLM Hq](https://github.com/dclmict/dclm-testimony) 🔭.
 - 🔭 Open Source Contributor  @ [Cuneiform Digital Library Initiative (CDLI)](https://gitlab.com/users/jovialcore/activity) 🔭.
