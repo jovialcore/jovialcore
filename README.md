@@ -9,8 +9,8 @@
 -⚙️ Tools I use: `php`, `laravel`, `cakephp`, `javascript`, `Vuejs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
 
 #### What am I doing now ? 
-- Building open source to make tech job hunting easier for you @ [whatcompanystack](https://whatcompanystack.com),  
-Other open soure: [whatcompanystack](https://whatcompanystack.com) 🔭
+- Building open source: To make tech job hunting easier for you @ [whatcompanystack](https://whatcompanystack.com),  
+  Other open soure: [whatcompanystack](https://whatcompanystack.com) 🔭
 
 - Ai Side project: Upload text-labelled Image and let Ai add context for you:  any @ [zoromai.com](http://zoromai.com/) 🔭.
 
