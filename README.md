@@ -9,7 +9,11 @@
 -⚙️ Tools I use: `php`, `laravel`, `cakephp`, `javascript`, `Vuejs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
 
 #### What am I doing now ? 
-- Building open source @ [whatcompanystack](https://whatcompanystack.com) 🔭.
+- Building open source to make tech job hunting easier for you @ [whatcompanystack](https://whatcompanystack.com),  
+Other open soure: [whatcompanystack](https://whatcompanystack.com) 🔭
+
+- Ai Side project: Upload text-labelled Image and let Ai add context for you:  any @ [zoromai.com](http://zoromai.com/) 🔭.
+
 - Blogging @ [jovialcore.tech](https://jovialcore.tech) 🔭.
 - 🔭 Volunteer Dev  @ [DCLM Hq](https://github.com/dclmict/dclm-testimony) 🔭.
 - 🔭 Open Source Contributor  @ [Cuneiform Digital Library Initiative (CDLI)](https://gitlab.com/users/jovialcore/activity) 🔭.
