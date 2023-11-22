@@ -13,7 +13,7 @@
 
 - Ai Side project: Upload text-labelled Image and let Ai add context for you: [zoromai.com](http://zoromai.com/) 🔭.
 
-- Blogging @ [jovialcore.tech](https://jovialcore.tech) 🔭.
+- Blogging @ [jovialcore.tech](https://dev.to/jovialcore) 🔭.
 - 🔭 Volunteer Dev  @ [DCLM Hq](https://github.com/dclmict/dclm-testimony) 🔭.
 - 🔭 Open Source Contributor  @ [Cuneiform Digital Library Initiative (CDLI)](https://gitlab.com/users/jovialcore/activity) 🔭.
 - 💬 I also write about some code related topics around my stack on my blog -[jovialcore](https://dev.to/jovialcore)
