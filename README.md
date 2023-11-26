@@ -2,7 +2,7 @@
 # Hi! There 👋:
 
 
-####  I'm an Experienced Backend Engineer (with a fleshy Frontend knowledge).
+####  I am an Experienced Backend Engineer (with a fleshy Frontend knowledge).
 
 #### My Stacks:
 
