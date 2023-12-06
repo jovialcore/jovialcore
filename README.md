@@ -11,7 +11,7 @@
 #### What am I doing now ? 
 - Building open source: To make tech job hunting easier for you [whatcompanystack](https://github.com/jovialcore/whatcompstack-BE) 
 
-- Ai Side project: Upload text-labelled Image and let Ai add context for you: [zoromai.com](http://zoromai.com/) 🔭.
+- Ai Side project: Upload text-labelled Image and let Ai add context for you: [zoromai.com](http://zoromai.com/) (technically, OpenAi closed this 😆 )🔭.
 
 - Blogging @ [jovialcore.tech](https://dev.to/jovialcore) 🔭.
 - 🔭 Volunteer Dev  @ [DCLM Hq](https://github.com/dclmict/dclm-testimony) 🔭.
