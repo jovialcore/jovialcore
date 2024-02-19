@@ -9,7 +9,7 @@
 -⚙️ Tools I use: `php`, `laravel`, `cakephp`, `javascript`, `Vuejs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
 
 #### What am I doing now ? 
-- Open Source Maintainer: To make tech job hunting easier for you [whatcompanystack](https://github.com/jovialcore/whatcompstack-BE) 
+- Open Source Maintainer: [whatcompanystack](https://github.com/jovialcore/whatcompstack-BE) (To make tech job hunting easier for you)
 
 - Ai Side project: Upload text-labelled Image and let Ai add context for you: [zoromai.com](http://zoromai.com/) (technically, OpenAi closed this 😆 )🔭.
 
