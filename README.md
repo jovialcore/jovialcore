@@ -6,7 +6,7 @@
 
 #### My Stacks:
 
--⚙️ Tools I use: `php`, `laravel`, `cakephp`, `javascript`, `Vuejs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
+-⚙️ Tools I use: `php`, `laravel`, `cakephp`, `javascript`, `Vuejs`, `Nuxtjs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
 
 #### What am I doing now ? 
 - Open Source Maintainer: [whatcompanystack](https://github.com/jovialcore/whatcompstack-BE?tab=readme-ov-file#-what-company-stack) (Contributing to the african startup tech ecosystem and trying to make tech job hunting easier)
