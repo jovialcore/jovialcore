@@ -9,8 +9,8 @@
 -⚙️ Tools I use: `php`, `laravel`, `nodjes`, `cakephp`, `javascript`, `Vuejs`, `Nuxtjs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
 
 #### What am I doing now ? 
+- Free time, I am working on BuilderStreak - Document your building-in-public journey and leave a trail that inspires.
 - Open Source Maintainer: [whatcompanystack](https://github.com/jovialcore/whatcompstack-BE?tab=readme-ov-file#-what-company-stack) (Contributing to the african startup tech ecosystem and trying to make tech job hunting easier)
-- Thinker and hac
 - Blogging @ [jovialcore.tech](https://dev.to/jovialcore) 🔭.
 - 🔭 Volunteer Dev  @ [DCLM Hq](https://github.com/dclmict/dclm-testimony) 🔭.
 - 🔭 Open Source Contributor  @ [Cuneiform Digital Library Initiative (CDLI)](https://gitlab.com/users/jovialcore/activity) 🔭.
