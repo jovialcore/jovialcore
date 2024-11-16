@@ -6,7 +6,7 @@
 
 #### My Stacks:
 
--⚙️ Tools I use: `php`, `laravel`, `nodjes`, `cakephp`, `javascript`, `Vuejs`, `Nuxtjs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
+-⚙️ Tools I use: `php`, `laravel`, `nodejs`, `cakephp`, `javascript`, `Vuejs`, `Nuxtjs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
 
 #### What am I doing now ? 
 - Free time, I am working on BuilderStreak - Document your building-in-public journey and leave a trail that inspires.
