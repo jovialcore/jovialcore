@@ -2,7 +2,7 @@
 # Hi! There 👋:
 
 
-####  A Backend Engineer (with a fleshy Frontend knowledge).
+####  A Software Engineer. 
 
 #### My Stacks:
 
