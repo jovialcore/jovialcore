@@ -6,7 +6,7 @@
 
 #### My Stacks:
 
--⚙️ Tools I use: `php`, `laravel`, `nodejs`, `cakephp`, `javascript`, `Vuejs`, `Nuxtjs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
+-⚙️ Tools I use: `php`,`python`, `laravel`, `nodejs`, `cakephp`, `javascript`, `Vuejs`, `Nuxtjs`, `BS4`, `Tailwind`, `Wordpress-api`, `Wordpress`
 
 #### What am I doing now ? 
 - Free time, I built [BuilderStreak](http://builderstreak.com)  - that helps creators automatically document their creative like building-in-public, 100-days-of-code, desgin, etc so that they leave a trail of digital footprints that inspires. Doing this without leaving their social media app.
